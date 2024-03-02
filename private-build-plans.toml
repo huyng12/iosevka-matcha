@@ -4,11 +4,9 @@ spacing = "normal"
 serifs = "sans"
 noCvSs = true
 exportGlyphNames = false
-noLigation = true
 
 [buildPlans.IosevkaMatcha.variants.design]
 g = "double-storey"
-paren = "flat-arc"
 brace = "curly-flat-boundary"
 
 [buildPlans.IosevkaMatcha.widths.Normal]
